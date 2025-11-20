@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="com.gcgenome.lims.sample">
+	<inherits name="net.sayaya.UI"/>
+	<source path="dto"/>
+	<source path="api"/>
+	<source path="client"/>
+	<entry-point class='com.gcgenome.lims.client.Main'/>
+	<collapse-all-properties/>
+</module>
